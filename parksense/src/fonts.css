@@ -1,0 +1,8 @@
+/* Import BC Novatica CYR Regular font */
+@font-face {
+  font-family: 'BC Novatica CYR Regular';
+  src: url('../public/fonts/fonnts.com-BC_Novatica_CYR_Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
